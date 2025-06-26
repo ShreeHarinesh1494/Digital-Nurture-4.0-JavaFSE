@@ -4,11 +4,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Week2/JUnitBasicTesting/Ex1SettingUpJUnit/pom.xml" />
-        <option value="$PROJECT_DIR$/src/Week2/JUnitBasicTesting/Ex3AssertionsInJUnit/pom.xml" />
-        <option value="$PROJECT_DIR$/src/Week2/JUnitBasicTesting/Ex4AAAPattern/pom.xml" />
-        <option value="$PROJECT_DIR$/src/Week2/Mockito/Ex1MockingAndStubbing/pom.xml" />
-        <option value="$PROJECT_DIR$/src/Week2/Mockito/Ex-2VerifyingInteractions/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
