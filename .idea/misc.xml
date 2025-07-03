@@ -10,7 +10,14 @@
         <option value="$PROJECT_DIR$/src/Week2/Mockito/Ex1MockingAndStubbing/pom.xml" />
         <option value="$PROJECT_DIR$/src/Week2/Mockito/Ex-2VerifyingInteractions/pom.xml" />
         <option value="$PROJECT_DIR$/src/Week2/SLF4JLoggingFramework/Ex1LoggingErrorMessagesAndWarningLevels/pom.xml" />
+        <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/Ex1LibraryManagement/Ex1LibraryManagement/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/LibraryManagement/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
