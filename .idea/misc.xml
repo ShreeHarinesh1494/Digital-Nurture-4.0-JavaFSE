@@ -13,10 +13,14 @@
         <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/LibraryManagement/pom.xml" />
         <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/Ex1LibraryManagement/Ex1LibraryManagement/pom.xml" />
         <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/Ex2ImplementingDependencyInjection/Ex2LibraryManagement/Ex2LibraryManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/Ex4CreatingandConfiguringaMavenProject/Ex4/Ex4/pom.xml" />
+        <option value="$PROJECT_DIR$/src/Week3/SpringData_JPA/QuickExample/orm-learn/orm-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/src/Week3/SpringDataJPA/QuickExample/ormlearn/ormlearn/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/src/Week3/SpringData_JPA/QuickExample/orm-learn/orm-learn/pom.xml" />
         <option value="$PROJECT_DIR$/src/Week3/Spring_Core_Maven/LibraryManagement/pom.xml" />
       </set>
     </option>
