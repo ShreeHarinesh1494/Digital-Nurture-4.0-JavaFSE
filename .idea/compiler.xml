@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Ex-1SettingUpJUnit" />
+        <module name="Ex4" />
+        <module name="Ex-3AssertionsInJUnit (1)" />
+        <module name="Ex-3AssertionsInJUnit (2)" />
+        <module name="Ex-3AssertionsInJUnit (3)" />
+        <module name="Ex-3AssertionsInJUnit (4)" />
+        <module name="Ex-3AssertionsInJUnit" />
+        <module name="Ex1LibraryManagement" />
+        <module name="ormlearn" />
+        <module name="Ex2LibraryManagement" />
+        <module name="Ex4 (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Ex-1SettingUpJUnit (1)" target="21" />
+      <module name="Ex-3AssertionsInJUnit (5)" target="21" />
+      <module name="Ex-3AssertionsInJUnit (6)" target="21" />
+      <module name="Ex-3AssertionsInJUnit (7)" target="21" />
+      <module name="Ex-3AssertionsInJUnit (8)" target="21" />
+      <module name="Ex-3AssertionsInJUnit (9)" target="21" />
+      <module name="Ex4 (1) (com.cognizant)" target="17" />
+      <module name="ex4 (1) (com.cognizant)" target="17" />
+      <module name="LibraryManagement" target="1.8" />
+      <module name="orm-learn" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Ex1LibraryManagement" options="-parameters" />
+      <module name="Ex2LibraryManagement" options="-parameters" />
+      <module name="Ex4" options="-parameters" />
+      <module name="Ex4 (1)" options="-parameters" />
+      <module name="Ex4 (1) (com.cognizant)" options="-parameters" />
+      <module name="ex4 (1) (com.cognizant)" options="-parameters" />
+      <module name="orm-learn" options="-parameters" />
+      <module name="ormlearn" options="-parameters" />
+    </option>
+  </component>
+</project>
